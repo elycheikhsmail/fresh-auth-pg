@@ -1,0 +1,2 @@
+NOTICE: using sequential values in a primary key does not perform as well as using random UUIDs. See https://www.cockroachlabs.com/docs/v22.1/serial.html
+table users created
